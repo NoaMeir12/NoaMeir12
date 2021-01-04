@@ -7,13 +7,13 @@
 ### I'm a self-taught Python Programmer #OpenToWork
 
 #### About me: :star:
-So as you probably already understand my name is Noa and I am 25 years old. Motivated Tel Aviv University Labor Studies & Communications alumnus skilled in Python, SQL, Data Analytics and Excel. A responsible and organized individual with strong problem solving, interpersonal and management skills. ✨
+So as you probably already understand my name is Noa and I am 25 years old. I'm a Motivated Tel Aviv University Labor Studies & Communications alumnus skilled in Python, SQL, Data Analytics and Excel. A responsible and organized individual with strong problem solving, interpersonal and management skills. ✨
 
 I started my learning journey in she code; and since then I have expanded it on Codecademy. I took a few courses there and I have learned Python and SQL in addition to my previous knowledge in Excel. 
-I have learned how to analyze data using Python and SQL. Here are some of my abilities:
-- Manipulate data using NumPy and Pandas
-- Visualize data using Matplotlib and seaborn
-- Summarize and analyze data with scikit-learn
+I have learned how to analyze data using Python and SQL. Here's some of the things I like doing:
+- Manipulating data using NumPy and Pandas
+- Visualizing data using Matplotlib and seaborn
+- Summarizing and analyzing data with scikit-learn
 
 Here you will be able to find some projects I have done recently, I hope you like them.
 
