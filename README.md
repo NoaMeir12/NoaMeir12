@@ -1,16 +1,23 @@
 ### Hi there 👋
 
-# Welcome, you've reached noa's Git !
+# Welcome, you've reached noa's Git! Glad to see you here!
 
-## Feel free to contact me through my [LinkedIn](https://www.linkedin.com/in/noa-meir-843b65202/) 
+## Feel free to contact me [LinkedIn](https://www.linkedin.com/in/noa-meir-843b65202/) 🔗
 
-### I'm a self-taught Python Programmer and I'm looking for new opportunities!
+### I'm a self-taught Python Programmer #OpenToWork
 
-#### About me:
-Motivated Tel Aviv University Labor Studies & Communications alumnus skilled in Python, SQL, Data Analytics
-and Excel. A responsible and organized individual with strong problem solving, interpersonal and management skills 
+#### About me: :star:
+So as you probably already understand my name is Noa and I am 25 years old. Motivated Tel Aviv University Labor Studies & Communications alumnus skilled in Python, SQL, Data Analytics and Excel. A responsible and organized individual with strong problem solving, interpersonal and management skills. ✨
 
-Here you will be able to see some projects I have done recently, I hope you like them.
+I started my learning journey in she code; and since then I have expanded it on Codecademy. I took a few courses there and I have learned Python and SQL in addition to my previous knowledge in Excel. 
+I have learned how to analyze data using Python and SQL. Here are some of my abilities:
+- Manipulate data using NumPy and Pandas
+- Visualize data using Matplotlib and seaborn
+- Summarize and analyze data with scikit-learn
+
+Here you will be able to find some projects I have done recently, I hope you like them.
+
+💬 Ask me about anything, I love to answer!
 
 
 <!--
