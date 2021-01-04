@@ -17,7 +17,7 @@ I have learned how to analyze data using Python and SQL. Here are some of my abi
 
 Here you will be able to find some projects I have done recently, I hope you like them.
 
-💬 Ask me about anything, I love to answer!
+💬 Ask me about anything, I love to answer! 💬
 
 
 <!--
